@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on Working Freelance Project.
 - 📫 How to reach me pvijaylaxmi52@gmail.com
-- 📫 My Skillsnare: HTML 5, CSS 3, Bootstrap, Javascript, Jquery,React Js, Adobe Photoshop and Canva.
+- 📫 My Skills are: HTML 5, CSS 3, Bootstrap, Javascript, Jquery,React Js, Adobe Photoshop and Canva.
 
 <!---
 Vijaylaxmi-patel/Vijaylaxmi-patel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
